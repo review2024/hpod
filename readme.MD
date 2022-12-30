@@ -20,3 +20,5 @@ More file description:
 - utility.py includes a set of helper functions.
 - models folder includes pre-trained models for fast replication.
 - datasets folder includes the raw file of all datasets.
+
+If you face any execution issue, please feel free to open an issue (anonmously if you are a reviewer.)
