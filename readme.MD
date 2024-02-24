@@ -3,7 +3,7 @@
 
 ----
 
-To run the demo for the three OD algorithms, first install the required libraries by executing
+To run the demo for the three OD algorithms, first install the required libraries by executing the following command:
 "pip install -r requirements.txt". It is working with Python 3.7+. Our experiment is in Python 3.9.
 
 To run the demo for RAE, execute:
